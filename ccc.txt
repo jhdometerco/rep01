@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ok
-=======
-ccc
->>>>>>> 1bae0468e8bf2f71e01329623aad8428bbf0cb77
+alterado no remoto
